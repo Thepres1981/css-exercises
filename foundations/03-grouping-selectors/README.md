@@ -13,6 +13,7 @@ This will help you further practice adding classes and using class selectors, so
 
 
 ### Self Check
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- Does each element have a unique class name? Yes   
+- Did you use the grouping selector for styles that both elements share? No, I used a universal selector.
+- Did you make separate rules for the styles unique to each element? Yes, I believe so.
+- After finishing I perused through the solutuion, I can see where my method could have potential down-falls in a webpage that you didn't want to have all the font to be the same size. Still I am rather proud of my solution.
