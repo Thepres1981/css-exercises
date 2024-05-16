@@ -1,0 +1,10 @@
+/* styles.css */
+
+p {background-color: pink;
+font-family: Verdana, DejaVu Sans, sans-serif;}
+#title {color: blue;
+font-size: 36px;}
+.q {font-size: 24px;}
+#once {background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;}
